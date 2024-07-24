@@ -1,5 +1,5 @@
 # 💫 About Me:
--🌱 I’m currently learning SQL, Python, Java, and Data Visualization.<br>- 👯 I’m looking to collaborate on projects involving AI, data analysis, and web development.<br>- 🤔 I’m looking for help with Ai and Machine Learning.<br>- 💬 Ask me about my projects, including Data Science Salary Prediction, Netflix User Base Visualization, Pizza Sales Analysis, and F1 Standings Web Scraper.
+-🌱 I’m currently learning SQL, Python, Java, and Data Visualization.<br>- 👯 I’m looking to collaborate on projects involving AI, data analysis, and web development.<br>- 🤔 I’m looking for help with Data Analysis, Ai and Machine Learning.<br>- 💬 Ask me about my projects, including Data Science Salary Prediction, Netflix User Base Visualization, Pizza Sales Analysis, and F1 Standings Web Scraper.
 
 
 ## 🌐 Socials:
