@@ -10,6 +10,6 @@
 - 👯 I’m looking to collaborate on projects involving AI, data analysis, and web development.
 - 🤔 I’m looking for help with PHP.
 - 💬 Ask me about my projects, including Data Science Salary Prediction, Netflix User Base Visualization, Pizza Sales Analysis, and F1 Standings Web Scraper.
-- 📫 How to reach me: [Email](will88@my.yorku.ca) | [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/william-nguyen-503683283/)
+- 📫 How to reach me: [Email](will88@my.yorku.ca) | [LinkedIn](https://www.linkedin.com/in/william-nguyen-503683283/)
 
 
